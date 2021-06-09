@@ -3,7 +3,7 @@
               </p>
               
 # EvilCat Userbot 
-<p align= "centre">
+<p align= "center">
   ✧༺ Just a simple telegram userbot ༻✧
   </p>
   
